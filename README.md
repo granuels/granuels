@@ -4,7 +4,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels)
 
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=Whatsapp-Bot&show_owner=true)]([https://github.com/granuels/Whatsapp-Bot)
+[![granuel's repository]]([https://github.com/granuels/Whatsapp-Bot)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&show_owner=true)](https://github.com/granuels/DrumKit)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=WeatherApp&show_owner=true)](https://github.com/granuels/WeatherApp)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DarkArt&show_owner=true)](https://github.com/granuels/DarKArt)
