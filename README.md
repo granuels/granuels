@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning web development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&layout=compact&theme=ambient_gradient)](https://github.com/granuels/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&layout=compact&theme=midnight-purple)](https://github.com/granuels/github-readme-stats)
 
 
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&show_owner=true)](https://github.com/granuels/DrumKit)
