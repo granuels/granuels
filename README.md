@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning web development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&layout=compact&theme=midnight-purple)](https://github.com/granuels/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&size_weight=0.5&count_weight=0.5&theme=midnight_purple)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Whatsapp-Bot&repo=github-readme-stats)](https://github.com/granuels/Whatsapp-Bot)
