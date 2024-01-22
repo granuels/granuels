@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple)
 
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=Whatsapp-Bot&show_owner=true&theme=radical)](https://github.com/granuels/Whatsapp-Bot)
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DeliveryManagementSystems-BTown_Dash&show_owner=true&theme=radical)](https://github.com/granuels/DeliveryManagementSystems-BTown_Dash)
+[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DeliveryManagementSystems-BTown_Dash&theme=radical)](https://github.com/granuels/DeliveryManagementSystems-BTown_Dash)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&show_owner=true&theme=radical)](https://github.com/granuels/DrumKit)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=WeatherApp&show_owner=true&theme=radical)](https://github.com/granuels/WeatherApp)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DarkArt&show_owner=true&theme=radical)](https://github.com/granuels/DarKArt)
