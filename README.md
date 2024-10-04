@@ -9,9 +9,7 @@
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=Chrome-Extension&theme=radical)](https://github.com/granuels/Chrome-Extension)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&theme=radical)](https://github.com/granuels/DrumKit)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=WeatherApp&theme=radical)](https://github.com/granuels/WeatherApp)
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DarkArt&theme=radical)](https://github.com/granuels/DarKArt)
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=newb&theme=radical)](https://github.com/granuels/newb)
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=SATAN&theme=radical)](https://github.com/granuels/SATAN)
+
 
 <!---
 granuels/granuels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
