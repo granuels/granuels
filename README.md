@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @granuels
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning web development
+- 🌱 I’m a Full Stack Developer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=granuels&size_weight=0.5&count_weight=0.5&layout=compact&theme=midnight-purple)
 
@@ -9,6 +9,7 @@
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=Chrome-Extension&theme=radical)](https://github.com/granuels/Chrome-Extension)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&theme=radical)](https://github.com/granuels/DrumKit)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=WeatherApp&theme=radical)](https://github.com/granuels/WeatherApp)
+[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=FullStackEngineer-Challenge=radical)](https://github.com/granuels/FullStackEngineer-Challenge)
 
 
 <!---
