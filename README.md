@@ -9,7 +9,7 @@
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=Chrome-Extension&theme=radical)](https://github.com/granuels/Chrome-Extension)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=DrumKit&theme=radical)](https://github.com/granuels/DrumKit)
 [![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=WeatherApp&theme=radical)](https://github.com/granuels/WeatherApp)
-[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=FullStackEngineer-Challenge=radical)](https://github.com/granuels/FullStackEngineer-Challenge)
+[![granuel's repository](https://github-readme-stats.vercel.app/api/pin/?username=granuels&repo=FullStackEngineer-Challenge&theme=radical)](https://github.com/granuels/FullStackEngineer-Challenge)
 
 
 <!---
